@@ -1,6 +1,6 @@
 FROM node:12.18.3
 
-WORKDIR C:\Users\Madhuni\Desktop\assign\service1
+WORKDIR D:\GitHub\aecs_assignment_service1
 
 COPY package*.json ./
 
